@@ -1,0 +1,8 @@
+1. cai nodejs
+2. cai sass
+https://sass-lang.com/install
+
+3. trong folder project chay cau sau
+
+https://sass-lang.com/documentation/cli/dart-sass#watch
+sass --watch --style=compressed login.scss:login.css
